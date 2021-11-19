@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CRYPTO-SHIFR.GER</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="buttonCrypt">VERSCHLÜSSELN</string>
+    <string name="buttonCopy">KOPIEREN</string>
+    <string name="buttonDeCrypt">ENTSCHLÜSSELN</string>
+    <string name="textCopy">TEXT KOPIERT</string>
+    <string name="buttonDeleteAll">ALLES LÖSCHEN</string>
+    <string name="instruction">TEXT EINGEBEN</string>
+    <string name="instruction2">TEXT EINFÜGEN</string>
+    <string name="instruction3">GEHEN SIE ZUM DEKODIEREN</string>
+    <string name="instruction4">GEHE ZU VERSCHLÜSSELUNG</string>
+    <string name="instruction5">VERSCHLÜSSELTEN TEXT EINGEBEN</string>
+</resources>
